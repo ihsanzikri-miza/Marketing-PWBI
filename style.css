@@ -677,7 +677,6 @@
             line-height: 1.6;
         }
 
-        /* WhatsApp Contact Section */
         .whatsapp-section {
             padding: 80px 5%;
             background-color: var(--white);
@@ -771,7 +770,6 @@
             box-shadow: 0 15px 35px rgba(37, 211, 102, 0.5);
         }
 
-        /* Footer */
         footer {
             background-color: var(--primary-color);
             color: var(--white);
@@ -903,7 +901,6 @@
             color: var(--accent-color);
         }
 
-        /* Floating WhatsApp Button (untuk chat admin) */
         .floating-chat-btn {
             position: fixed;
             bottom: 30px;
@@ -928,7 +925,6 @@
             transform: scale(1.1);
         }
 
-        /* Floating WhatsApp Button (untuk langsung ke WhatsApp) */
         .floating-whatsapp {
             position: fixed;
             bottom: 100px;
@@ -1252,7 +1248,6 @@
             }
         }
 
-        /* Animations */
         @keyframes fadeInUp {
             from {
                 opacity: 0;
